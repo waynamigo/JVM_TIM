@@ -4,3 +4,5 @@ plugin-lua/
 sdk/
 build.sh
 run.sh
+src/co
+src/com/ignoreos/jvmqq/Robot/

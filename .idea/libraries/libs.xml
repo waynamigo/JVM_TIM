@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/lanterna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/json-20180813.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/luaj-jse-3.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
