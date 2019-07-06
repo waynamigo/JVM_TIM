@@ -1,0 +1,6 @@
+build/
+plugin/
+plugin-lua/
+sdk/
+build.sh
+run.sh
