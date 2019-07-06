@@ -3,49 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5c68bd1c-f641-4a3e-8e6d-09268f7c8e67" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/out.jar" beforeDir="false" afterPath="$PROJECT_DIR$/bin/out.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Message/PictureKeyStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Message/PictureKeyStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Message/PictureStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Message/PictureStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Message/SendMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Message/SendMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Package/ParseRecivePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Package/ParseRecivePackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Package/SendPackageFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Package/SendPackageFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/QQGlobal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/QQGlobal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/QQUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/QQUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Robot/LuaApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Robot/LuaApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Robot/LuaQQRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Robot/LuaQQRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Robot/QQRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Robot/QQRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Robot/RobotApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Robot/RobotApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Socket/HeartBeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Socket/HeartBeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Socket/LoginManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Socket/LoginManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Socket/MessageManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Socket/MessageManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Socket/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Socket/MessageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Socket/Udpsocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Socket/Udpsocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/TLV/ParseTlvFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/TLV/ParseTlvFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/TLV/TLV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/TLV/TLV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/TLV/TLVFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/TLV/TLVFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/TXProtocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/TXProtocol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Theme/DefaultMutableThemeStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Theme/DefaultMutableThemeStyle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Theme/DelegatingTheme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Theme/DelegatingTheme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Theme/DelegatingThemeDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Theme/DelegatingThemeDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Theme/MainTheme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Theme/MainTheme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Utils/ByteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Utils/ByteBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Utils/ByteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Utils/ByteFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Utils/Crypter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Utils/Crypter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Utils/CrypterUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Utils/CrypterUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Utils/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Utils/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Utils/ZLibUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Utils/ZLibUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Window/BaseWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Window/BaseWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Window/ChatListWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Window/ChatListWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Window/ChatWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Window/ChatWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Window/FriendListWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Window/FriendListWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Window/GroupListWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Window/GroupListWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Window/LoginWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Window/LoginWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Window/NavigatorWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Window/NavigatorWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Window/OutPutWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Window/OutPutWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Tick_Tock/PCTIM/Window/PluginWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ignoreos/jvmqq/Window/PluginWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,8 +57,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="132">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -388,12 +346,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562405865862</updated>
       <workItem from="1562405868561" duration="3186000" />
-      <workItem from="1562411554177" duration="1143000" />
+      <workItem from="1562411554177" duration="1274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4329000" />
+    <option name="totallyTimeSpent" value="4460000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -418,10 +376,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32997763" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32885906" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32885906" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -728,8 +686,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="132">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
