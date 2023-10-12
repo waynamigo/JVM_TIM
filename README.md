@@ -1,7 +1,7 @@
 ## smartqq挂了之后
 不想用wine的linuxqq用户宣布去世，
 决定嫖一嫖大佬的的qq协议，
-之前是直接fork了群里大佬[Saint-Theana](https://github.com/Saint-Theana)翻译的pcqq协议，由于我不会lua等原因，没有做bot的打算<del>（主要是代码太多不想看</del>
+之前是直接fork了群里大佬[Saint-Theana](https://github.com/Saint-Theana)翻译的pcqq协议，没有做bot的打算
 
 ## 声明
 本项目使用的
